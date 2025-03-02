@@ -2,17 +2,7 @@
 
 This repository contains an image captioning project that generates descriptive captions for images using deep learning techniques. The project leverages a combination of convolutional neural networks (CNNs) for image feature extraction and recurrent neural networks (RNNs) for sequence generation.
 
-## Table of Contents
-- [Introduction](#introduction)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Dataset](#dataset)
-- [Model Architecture](#model-architecture)
-- [Results](#results)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgements](#acknowledgements)
+
 
 ## Introduction
 Image captioning is a challenging task that involves generating a textual description for a given image. This project implements a deep learning model that generates captions by combining the visual understanding of CNNs with the language generation capabilities of RNNs.
@@ -51,9 +41,6 @@ The model achieves competitive results on the Flickr Image dataset. Example capt
 - ![Example 2](data/10002456.jpg)  <br>
 "Two young , White males are outside near many bushes. "
 
-## Contributing
-Contributions are welcome! Please fork the repository and submit a pull request with your changes. Ensure that your code adheres to the project's coding standards.
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
+Th
