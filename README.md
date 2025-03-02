@@ -26,8 +26,8 @@ Image captioning is a challenging task that involves generating a textual descri
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/image-captioning.git
-    cd image-captioning
+    git clone https://github.com/tasmia008/Image-captioning-Multimodel.git
+    cd Image-captioning-Multimodel
     ```
 
 2. Install the required dependencies:
